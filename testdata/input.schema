@@ -1,0 +1,1 @@
+{"type":"struct","fields":[{"name":"anzsic06","type":"string","nullable":true,"metadata":{}},{"name":"area","type":"string","nullable":true,"metadata":{}},{"name":"year","type":"integer","nullable":true,"metadata":{}},{"name":"geo_count","type":"integer","nullable":true,"metadata":{}},{"name":"ec_count","type":"integer","nullable":true,"metadata":{}}]}
